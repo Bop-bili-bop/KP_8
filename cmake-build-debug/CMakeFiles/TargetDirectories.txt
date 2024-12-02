@@ -1,0 +1,3 @@
+C:/Users/Kir/CLionProjects/KP_8/cmake-build-debug/CMakeFiles/KP_8.dir
+C:/Users/Kir/CLionProjects/KP_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kir/CLionProjects/KP_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
