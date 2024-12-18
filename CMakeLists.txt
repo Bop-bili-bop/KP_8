@@ -7,4 +7,5 @@ add_executable(KP_8 main.c
         calculation.h
         complex.h
         validation.h
-        main.c)
+        main.c
+        print_circuit.h)

@@ -15,6 +15,6 @@ complex complex_division(complex a, complex b) {
 
 void print_complex_number(complex number)
 {
-    printf("%g + i * %e\n", number.real, number.imaginary);
+    printf("%e + i * %e\n", number.real, number.imaginary);
 }
 #endif //COMPLEX_H
